@@ -46,7 +46,7 @@
 Summary:   X.Org X11 X server
 Name:      xorg-x11-server
 Version:   1.20.9
-Release:   100%{?gitdate:.%{gitdate}}%{?dist}.pp3345
+Release:   100%{?gitdate:.%{gitdate}}%{?dist}.shrisha
 URL:       http://www.x.org
 License:   MIT
 
