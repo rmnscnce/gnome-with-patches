@@ -14,7 +14,7 @@ Summary:       Javascript Bindings for GNOME
 # Stack printer (gjs/stack.c)
 License:       MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
 URL:           https://wiki.gnome.org/Projects/Gjs
-Source0:       https://download.gnome.org/sources/%{name}/1.66/%{name}-%{version}.tar.xz
+Source0:       gjs-1.66.1.tar.xz
 
 BuildRequires: cairo-gobject-devel
 BuildRequires: dbus-daemon
