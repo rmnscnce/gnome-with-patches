@@ -1,6 +1,6 @@
 Name:           gnome-shell
 Version:        3.38.1
-Release:        203%{?dist}.pp3345
+Release:        203%{?dist}.shrisha
 Summary:        Window management and application launching for GNOME
 
 License:        GPLv2+
