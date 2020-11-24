@@ -5,7 +5,7 @@
 
 Name:          gjs
 Version:       1.66.1
-Release:       200%{?dist}.pp3345
+Release:       200%{?dist}.shrisha
 Summary:       Javascript Bindings for GNOME
 
 # The following files contain code from Mozilla which
