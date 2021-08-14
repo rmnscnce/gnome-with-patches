@@ -1,11 +1,11 @@
 Name:           gnome-shell
-Version:        40.0~alpha
-Release:        1.20210106.2
+Version:        41-alpha
+Release:        100.shrisha
 Summary:        Window management and application launching for GNOME
 
 License:        GPLv2+
 URL:            https://wiki.gnome.org/Projects/GnomeShell
-Source0:        https://gitlab.gnome.org/haecker-felix/gnome-shell-40-copr/uploads/d7e4ef468dce69b645fa52ad9ccf2f65/gnome-shell.tar.xz  
+Source0:        gnome-shell-41-alpha.tar.xz  
 
 %define eds_version 3.33.1
 %define gnome_desktop_version 3.35.91
