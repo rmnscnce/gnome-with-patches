@@ -24,7 +24,7 @@ Patch0:        0001-window-actor-Special-case-shaped-Java-windows.patch
 Patch1:        0001-Revert-build-Do-not-provide-built-sources-as-libmutt.patch
 
 # Workaround for RHBZ#1936991 (blocks atomic KMS on "tegra" driver)
-Patch2:        gnome-401441.patch
+Patch2:        1441-triple-buffering-v4@mutter-40.patch
 
 #Patch3:        0001-Repaint-scheduling-part-1.patch
 
